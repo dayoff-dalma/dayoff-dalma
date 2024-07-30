@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 
 ## :trophy: Github Status
 
-<img  src="https://github-stats-lemon.vercel.app/api?username=adrianhajdin&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=adrianhajdin&theme=tokyonight" width="48%" >
+<img  src="https://github-stats-lemon.vercel.app/api?username=dayoff-dalma&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=dayoff-dalma&theme=tokyonight" width="48%" >
 
 
 ## :star2: Most Used Weapons
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adrianhajdin&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=adrianhajdin&theme=react-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dayoff-dalma&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=dayoff-dalma&theme=react-dark)
 
 ## Connect with me:
 
